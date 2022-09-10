@@ -1,0 +1,5 @@
+images/*
+model_data/*
+out/*
+out_crop/*
+train_data/*
